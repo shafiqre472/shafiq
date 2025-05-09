@@ -1,0 +1,10 @@
+https://www.google.com/maps/place/Fortitude+Valley+QLD+4006/@-27.45601,153.0403,525a,35y,4.1h,44t/data=!3m1!1e3!4m5!3m4!1s0x6b9159f2422ef591:0x502a35af3de8950!8m2!3d-27.457826!4d153.0356579
+
+https://www.google.com/maps/place/Fortitude+Valley+QLD+4006/@-27.45601,153.0403,525a,35y,4.1h,44t/
+
+the t is tilt
+the h is 0-360 degrees rotation
+the a is altitude
+
+Lat/Lon -27.45371 153.04237 | Zoom 18 | Scale 1:2126 | Tilt 48º | Rotation 3.4º
+Lat/Lon -27.45257 153.03809 | Zoom 18 | Scale 1:2021 | Tilt 44º | Rotation 4.1º
