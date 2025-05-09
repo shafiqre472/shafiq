@@ -3,7 +3,7 @@
   "label": "Map Coord",
   "type": "widget",
   "platform": "EXB",
-  "version": "1.10",
+  "version": "11.3",
   "exbVersion": "1.10",
   "author": "EsriAU Frederic Poliart",
   "description": "This widget displays the latitude/longitude, scale, zoom, tilt & link to Google 3D.",
