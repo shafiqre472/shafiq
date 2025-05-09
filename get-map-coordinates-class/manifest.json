@@ -8,11 +8,7 @@
   "author": "EsriAU Frederic Poliart",
   "description": "This widget displays the latitude/longitude, scale, zoom, tilt & link to Google 3D.",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {
-    "hasConfig": false,
-    "hasStyle": true,
-    "hasSettingPage": false
-  },
+  "properties": {},
   "translatedLocales": ["en"],
   "defaultSize": {
     "width": 400,
