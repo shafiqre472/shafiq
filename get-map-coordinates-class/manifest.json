@@ -2,17 +2,21 @@
   "name": "get-map-coordinates-class",
   "label": "Map Coord",
   "type": "widget",
-  "platform":"EXB",
-  "version": "11.3",
-  "exbVersion": "11.3",
+  "platform": "EXB",
+  "version": "1.10",
+  "exbVersion": "1.10",
   "author": "EsriAU Frederic Poliart",
-  "description": "This widget displays the latitude/longitude, scale, zoom , tilt & ink to GOogle3D.",
-  "copyright": "",
+  "description": "This widget displays the latitude/longitude, scale, zoom, tilt & link to Google 3D.",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {},
+  "properties": {
+    "hasConfig": false,
+    "hasStyle": true,
+    "hasSettingPage": false
+  },
   "translatedLocales": ["en"],
   "defaultSize": {
     "width": 400,
     "height": 30
   }
 }
+
